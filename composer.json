@@ -19,7 +19,7 @@
 		"source":   "https://github.com/KodiCMS/module-datasource"
 	},
 	"require": {
-		"kodicms/core": "dev-master",
-		"swiftmailer/swiftmailer": @stable
+		"kodicms/core"				: "dev-master",
+		"swiftmailer/swiftmailer"	: "@stable"
 	}
 }
