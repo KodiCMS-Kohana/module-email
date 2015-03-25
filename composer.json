@@ -21,10 +21,5 @@
 	"require": {
 		"kodicms/core"				: "dev-master",
 		"swiftmailer/swiftmailer"	: "@stable"
-	},
-	"extra": {
-		"installer-paths": {
-			"cms/modules/{$name}": ["type:kodicms-module"]
-		}
 	}
 }
