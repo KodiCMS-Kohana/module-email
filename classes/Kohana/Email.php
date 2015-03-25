@@ -444,8 +444,6 @@ class Kohana_Email {
 
 } // End email
 
-// Load Swiftmailer
-require Kohana::find_file('vendor/swiftmailer', 'lib/swift_required');
 
 if (method_exists('Swift_Preferences', 'getInstance'))
 {
