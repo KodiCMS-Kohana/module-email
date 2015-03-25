@@ -20,6 +20,6 @@
 	},
 	"require": {
 		"kodicms/core"				: "dev-master",
-		"swiftmailer/swiftmailer"	: "@stable"
+		"swiftmailer/swiftmailer"	: "~5.0"
 	}
 }
