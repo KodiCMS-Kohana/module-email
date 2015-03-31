@@ -18,6 +18,11 @@
 		"forum":    "http://www.kodicms.ru/forum",
 		"source":   "https://github.com/KodiCMS/module-datasource"
 	},
+	"autoload": {
+		"psr-4": {
+			"KodiCMS\\Email\\": 	"classes"
+		}
+	},
 	"require": {
 		"kodicms/core"				: "dev-master",
 		"swiftmailer/swiftmailer"	: "~5.0"
