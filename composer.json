@@ -24,7 +24,7 @@
 		}
 	},
 	"require": {
-		"kodicms/core"				: "dev-master",
+		"kodicms/core"				: "dev-psr_4",
 		"swiftmailer/swiftmailer"	: "~5.0"
 	}
 }
