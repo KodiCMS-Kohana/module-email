@@ -1,5 +1,5 @@
 {
-	"name":        "kodicms/email",
+	"name":        "kodicms_kohana/email",
 	"type":        "kodicms-module",
 	"description": "The official KodiCMS email module",
 	"homepage":    "http://www.kodicms.ru/",
